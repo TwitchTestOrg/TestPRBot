@@ -264,3 +264,29 @@ header.masthead {
   margin-bottom: 10px;
   color: #97AAC3;
 }
+
+.worklogo {
+  width: 175px;
+  height: 175px;
+  vertical-align: middle;
+  margin-top: 20px;
+  border: black 1px solid;
+}
+
+/* centered columns styles */
+.row-centered {
+  text-align:center;
+  margin-bottom: 20px;
+}
+.col-centered {
+  display:inline-block;
+  float:none;
+  /* reset the text-align */
+  text-align:left;
+  /* inline-block space fix */
+  margin-right:-4px;
+}
+
+img {
+    vertical-align: middle;
+}
