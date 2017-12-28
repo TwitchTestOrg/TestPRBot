@@ -290,3 +290,10 @@ header.masthead {
 img {
     vertical-align: middle;
 }
+
+.external-link {
+  padding: 10px;
+  width: 100px;
+  height: 100px;
+  margin: 30px;
+}
